@@ -1,1 +1,4 @@
-![Have a bana-na](https://arkestra.dev/static/images/searching_for_chaos/gb_7.png)
+
+<p align="center">
+  <img src="https://i.stack.imgur.com/AvEKp.jpg"></img>
+</p>
